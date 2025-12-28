@@ -1,0 +1,10 @@
+# Ignore system files
+Thumbs.db
+Desktop.ini
+# Ignore Visual Studio / VS Code folders (if you open it there)
+.vs/
+.vscode/
+bin/
+obj/
+# Ignore local config files if any
+*.user
